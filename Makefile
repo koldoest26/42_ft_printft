@@ -23,7 +23,6 @@ $(NAME):
 all: $(NAME)
 
 clean:
-	rm -f $(NAMES)
 	rm -f $(OFILES)
 
 fclean: clean
